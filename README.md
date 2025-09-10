@@ -38,7 +38,7 @@ Collaborators : [Shristi BINWANI](https://srishti-10.github.io/Portfolio/), [Pur
 Technologies : Python, Torch, HuggingFace, Langchain, Streamlit, Poetry, Git
 
 [Preview (click to see demo)](https://youtu.be/P3mC1KXs17A) :  
-<img src="assets/poster_chatbot.jpg" alt="Poster Chatbot" width="1000">
+<img src="assets/poster_chatbot.JPG" alt="Poster Chatbot" width="1000">
 
 My most complete AI work. As a team, we propose a MVP showcasing an application made for school/universities students, to summarize, we programmed a simple inerface capable of answering scholar related questions, using a main LLM, that can use conversation context, information found on the web (or references) and most importantly, that can reason. In our research, Artificial Intelligence offers a promising avenue for addressing student learning limitations. By integrating emotion-aware models to this adaptive content delivery strategies, those AI systems can provide tailored learning experiences that align with both
 the cognitive and emotional states of the learner. This project explores the development of
